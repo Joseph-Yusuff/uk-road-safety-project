@@ -58,12 +58,12 @@ To support UK government agencies in improving road safety by:
 
 ## Run Locally
 bash
-# Create a virtual environment (recommended)
+#### Create a virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-# Install dependencies
+#### Install dependencies
 pip install -r requirements.txt
 
-# Launch the notebook
+#### Launch the notebook
 jupyter notebook
